@@ -1,0 +1,18 @@
+{
+  "name": "server-fs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon /src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "nodemon": "^2.0.22",
+    "path": "^0.12.7"
+  }
+}
